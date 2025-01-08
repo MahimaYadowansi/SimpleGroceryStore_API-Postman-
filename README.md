@@ -9,8 +9,10 @@
 
 ## How to Run the Tests  
 - Clone this repository:
-   git clone https://github.com/YourUsername/SimpleGroceryStore_API-Postman.git
-   cd SimpleGroceryStore_API-Postman
+  ```bash
+git clone https://github.com/YourUsername/SimpleGroceryStore_API-Postman.git
+cd SimpleGroceryStore_API-Postman
+
 - Import the Postman collection:
     - Open Postman and click on Import.
     - Import the collection file (e.g., SimpleGroceryStore_API.postman_collection.json).
