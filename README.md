@@ -11,7 +11,8 @@
 - Clone this repository:
   ```bash
   git clone https://github.com/YourUsername/SimpleGroceryStore_API-Postman.git
-  cd SimpleGroceryStore_API-Postman ```
+  cd SimpleGroceryStore_API-Postman
+  ```
 
 - Import the Postman collection:
     - Open Postman and click on Import.
