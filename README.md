@@ -1,5 +1,5 @@
 # SimpleGroceryStore_API-Postman-
-## OVERCIEW
+## OVERVIEW
 - This repository contains the Postman collection for testing the RESTful APIs of the Simple Grocery Store application. The API testing includes various operations such as retrieving products, adding products to the cart, placing orders, modifying the cart, and checking the status of orders.
 
 ## Key Highlights:
